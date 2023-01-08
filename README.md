@@ -51,4 +51,6 @@ slmgr /skms kms.digiboy.ir
 
 slmgr /ato
 
-[виндовс 11 активатор.txt](https://github.com/CrayQWDE/Activator-Windows-11/files/10368427/11.txt)
+[виндовс 11 про активатор.txt](https://github.com/CrayQWDE/Activator-Windows-11/files/10368427/11.txt)
+
+[Windows 11 Pro Activator.txt](https://github.com/CrayQWDE/Activator-Windows-11/files/10368428/Windows.11.Pro.Activator.txt)
