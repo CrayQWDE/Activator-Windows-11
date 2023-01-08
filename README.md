@@ -15,8 +15,7 @@ Activator Windos 11 Pro
 
 # тут указан код от 11 виндовс Pro : W269N-WFGWX-YVC9B-4J6C9-T83GX                                                    
 
-# если у вас другая версия то просто замените активатор)
-                   
+# если у вас другая версия то просто замените активатор)                   
                                                                   #Сам активатор 
 
 slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -51,3 +50,5 @@ slmgr /skms kms.digiboy.ir
 
 
 slmgr /ato
+
+[виндовс 11 активатор.txt](https://github.com/CrayQWDE/Activator-Windows-11/files/10368427/11.txt)
