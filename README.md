@@ -131,3 +131,4 @@ slmgr /ato
 slmgr /skms kms.digiboy.ir
 2
 slmgr /skms zh.us.to
+.
